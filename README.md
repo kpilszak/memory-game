@@ -20,4 +20,4 @@ Project is created with:
 To run this project, open this in a new tab: <a href="https://kpilszak.github.io/memory-game/">https://kpilszak.github.io/memory-game/</a>
 
 ## Sources
-This project has been created thanks to Ania Kubów tutorial <a href="https://www.youtube.com/watch?v=tjyDOHzKN0w">Make MEMORY GAME in JavaScript, HTML and CSS for your portfolio</a> from Youtube.
+This project has been created with help from Ania Kubów tutorial <a href="https://www.youtube.com/watch?v=tjyDOHzKN0w">Make MEMORY GAME in JavaScript, HTML and CSS for your portfolio</a> from Youtube.
